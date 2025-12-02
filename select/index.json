@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "美しい鰭",
+  "base_artist": "Spitz",
+  "createdAt": "2025-12-02T15:29:24.716111Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "美しい鰭",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_美しい鰭_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "美しい鰭",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/02_美しい鰭_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "美しい鰭 - Beautiful Fin",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/03_美しい鰭_-_Beautiful_Fin_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "美しい鰭 - Beautiful Fin",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/04_美しい鰭_-_Beautiful_Fin_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/05_美しい鰭_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "美しい鰭",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/06_美しい鰭_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/07_美しい鰭_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/08_美しい鰭_スピッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_美しい鰭_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_美しい鰭_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_美しい鰭_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_美しい鰭_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_美しい鰭_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_美しい鰭_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_07_美しい鰭_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_08_美しい鰭_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "美しい鰭",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_09_美しい鰭_スピッツ.txt"
+    }
+  ]
+}
